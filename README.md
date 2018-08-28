@@ -1,4 +1,4 @@
-# first-repo
+-# first-repo
 first repository, just to try things out
 
 # Hello
@@ -12,3 +12,4 @@ first repository, just to try things out
 - seafood
 
 # **I am excited to learn more about R in this class!**
+- hello brlaw17 trying things on github
