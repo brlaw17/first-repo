@@ -1,7 +1,7 @@
 # first-repo
 first repository, just to try things out
 
-# About Me
+# Hello
 # My name is Brianna and here is a little about me:
 ## Type of scientist
 
@@ -9,3 +9,6 @@ first repository, just to try things out
 ## Favorite food
 
 - pasta
+- seafood
+
+# **I am excited to learn more about R in this class!**
