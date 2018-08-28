@@ -12,3 +12,4 @@ first repository, just to try things out
 - seafood
 
 # **I am excited to learn more about R in this class!**
+Hi dear Briann, this is me, Farzaneh.
